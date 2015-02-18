@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "85b6f235e988476eb8b561f345cf8a6c", 
+  "language": "kin_RW", 
+  "title": "MALARIYA", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "malariya", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
