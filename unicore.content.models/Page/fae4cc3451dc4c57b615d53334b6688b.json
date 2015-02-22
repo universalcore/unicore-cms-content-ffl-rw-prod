@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Ibibazo byo kwitondera iyo bigaragaye:", 
+  "language": "kin_RW", 
+  "title": "Ibibazo byo kwitondera iyo bigaragaye:", 
+  "primary_category": "c354b4d7e51c4f5e96dea91349d81664", 
+  "created_at": "2015-02-22T11:08:57.721168+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-22T11:08:57.721561+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - Kutanyeganyeza amaguru n\u2019amaboko;\r\n - Gukomeza kunyeganyeza umutwe cyangwa gukubaganya ugutwi byerekana ko ashobora kuba arwaye mu gutwi kandi \r\nbishobora kumutera kutumvamugihe bitavuwe;\r\n - Kutita ku rusaku, abantu azi cyangwa kudashaka ibere;\r\n - Kwanga ibere cyangwa ibiryo.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "ibibazo-byo-kwitondera-iyo-bigaragaye", 
+  "uuid": "fae4cc3451dc4c57b615d53334b6688b"
+}
