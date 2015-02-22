@@ -6,12 +6,12 @@
   "primary_category": "c354b4d7e51c4f5e96dea91349d81664", 
   "created_at": "2015-02-22T10:30:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-22T10:31:13.249084+00:00", 
+  "modified_at": "2015-02-22T10:31:57.819820+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,7 +19,9 @@
   "content": "Iyo abana bitaweho bakivuka, bagahabwa urukundo, umutekano, indyo \r\nyuzuye, bakagirirwa isuku bakura kandi bakiga neza.\r\nAbana biga vuba iyo bumva ko bakunzwe kandi bate umutekano kuva \r\nbakivuka, n\u2019iyo bakina bakanaganira n\u2019abo babana mu rugo n\u2019abandi bantu \r\nba ha. Uko ababyeyi n\u2019abandi barera umwana bamuganiriza n\u2019uko bamu-\r\nsubiza, nibyo bituma yiga vuba.\r\nIndyo yuzuye ni ikintu cy\u2019ingenzi mu mikurire y\u2019umwana. Indyo y\u2019umubyeyi \r\nutwite kimwe n\u2019iy\u2019umwana muto igomba kuba yuzuye intungamubiri, nka \r\nporoteyine, ibinyamavuta kugira ngo umubiri w\u2019umwana ukure kandi ugire \r\ningufu.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "revised"
+  ], 
   "image": null, 
   "published": null, 
   "position": 1, 
