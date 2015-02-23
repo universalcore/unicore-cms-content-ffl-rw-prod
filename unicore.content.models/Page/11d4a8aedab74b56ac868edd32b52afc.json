@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Ibibazo byo kwitondera iyo bigaragaye:", 
+  "language": "kin_RW", 
+  "title": "Ibibazo byo kwitondera iyo bigaragaye:", 
+  "primary_category": "c354b4d7e51c4f5e96dea91349d81664", 
+  "created_at": "2015-02-23T14:26:55.807549+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-23T14:26:55.807711+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - Umwana udasubiza umubajije;\r\n - Kudashobora kugenda neza;\r\n - Gukomereka no kugaragaza impinduka zidasobanutse \r\n   z\u2019imyitwarire (cyane cyane iyo umwana yarezwe n\u2019abandi \r\n   bantu);\r\n - Kudashishikarira kurya.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "ibibazo-byo-kwitondera-iyo-bigaragaye", 
+  "uuid": "11d4a8aedab74b56ac868edd32b52afc"
+}
