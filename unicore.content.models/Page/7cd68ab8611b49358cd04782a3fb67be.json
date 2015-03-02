@@ -4,14 +4,14 @@
   "language": "kin_RW", 
   "title": "Kugira isuku no kunywa amazi meza kandi asukuye ari ingenzi mu kurwanya impiswi. ", 
   "primary_category": "1e5766a0907f46a99df8dfa8f7a2defa", 
-  "created_at": "2015-03-02T14:00:53.401926+00:00", 
+  "created_at": "2015-03-02T14:00:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-02T14:00:53.402162+00:00", 
+  "modified_at": "2015-03-02T14:01:11.552804+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
