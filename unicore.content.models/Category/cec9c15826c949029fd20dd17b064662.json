@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "cec9c15826c949029fd20dd17b064662", 
   "language": "kin_RW", 
-  "title": "Konsa", 
+  "title": "KONSA", 
   "image": null, 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "konsa", 
