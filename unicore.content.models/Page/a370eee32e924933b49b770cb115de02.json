@@ -6,12 +6,12 @@
   "primary_category": "cec9c15826c949029fd20dd17b064662", 
   "created_at": "2015-03-02T12:56:40.756095+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-02T12:56:40.756393+00:00", 
+  "modified_at": "2015-03-02T16:15:25.440674+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,12 @@
   "content": "Guha umwana uri munsi y\u2019amezi atandatu imfashabere bishobora kumuteza ibibazo byo kurwaragurika. Iyo umubyeyi ataboneka ngo yonse umwana uko abishatse bitewe n\u2019akazi cyangwa ibindi, ni byiza ko amwonsa kenshi mu gihe bari kumwe. Ashobora kandi gukama amashereka akayabika neza mu gikoresho gisukuye kandi gipfundikiye, akaza guhabwa umwana hakoreshejwe ikiyiko cyangwa igikombe gite isuku.\r\nUmwana utonka ntagira amahirwe yo kwirinda indwara atangwa n\u2019ibirinda umubiri biba mu mashereka. Abo bana bashobora kurwara impiswi, bakagira ibibazo byo guhumeka n\u2019ibibazo by\u2019amatwi. Impiswi n\u2019ibibazo byo guhumeka, nk\u2019umusonga bishobora guhitana impinja n\u2019abana bakiri bato.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "21"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "guha-umwana-uri-munsi-yamezi-atandatu-imfashabere-bishobora-kumuteza-ibibazo-byo-kurwaragurika", 
   "uuid": "a370eee32e924933b49b770cb115de02"
