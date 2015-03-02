@@ -4,14 +4,14 @@
   "language": "kin_RW", 
   "title": "Abana bato bakunda gushyira ibyo babonye byose mu kanwa. ", 
   "primary_category": "01f3b4c2d5a440429707f7f7463b6bfb", 
-  "created_at": "2015-03-02T15:13:35.354861+00:00", 
+  "created_at": "2015-03-02T15:13:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-02T15:13:35.355054+00:00", 
+  "modified_at": "2015-03-02T15:14:30.740499+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,7 +19,9 @@
   "content": "Abana bato bakunda gushyira ibyo babonye byose mu kanwa. Udukoresho duto twose tugomba kubikwa kure y\u2019aho abana bagera, kugirango ubarinde kuba bamira utuntu duto nk\u2019igikoroto, imbuto zikomeye cyangwa amapesu. Ibiryo by\u2019umwana bigomba gukatwa mu dupande duto kugira ngo abashe kubitapfuna no kubimira nta kibazo bimuteye.\r\n\r\nAbana bakunze gushyira mu kanwa ibintu bibakikije. Ibi bishobora guhera mu nzira zabo z\u2019ubuhumekero bikabaviramo kubura umwuka. Abana bato ntibiborohera kunyunya ibintu bikomeye nka bombo. Ibyo bishobora guteza ikibazo umwana akabura umwuka igihe abimize. Ni ngombwa rero kubikuraho no kubishyira aho umwana adashyikira kugirango atabimira.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "59"
+  ], 
   "image": null, 
   "published": null, 
   "position": 0, 
