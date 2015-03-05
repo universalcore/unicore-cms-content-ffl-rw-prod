@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "About", 
+  "language": "kin_RW", 
+  "title": "About", 
+  "primary_category": null, 
+  "created_at": "2015-03-05T12:27:48.603084+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-05T12:27:48.603528+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Buri mwaka, ku isi abana bagera kuri miliyoni 9 bari munsi y\u2019imyaka itanu bapfa bazira indwara nyamara zishobora kwirindwa. Igiteye impungenge kurushaho nuko benshi muribo bapfa batarageza ku mwaka umwe w\u2019amavuko. Undi mubare munini w\u2019abarwara izo ndwara basigarana ingaruka z\u2019igihe kirekire.\r\n\r\nMu Rwanda, umusonga, impiswi, malariya na SIDA ubwabyo biri ku isonga mubihitana abana bari munsi y\u2019imyaka itanu; hakwiyongeraho imirire mibi, ubuzima bw\u2019umwana bukarushaho kuzahara. Ibifashijwe mo n\u2019abafatanyabikorwa bayo, harimo Umuryango w\u2019Abibumbye Leta y\u2019u Rwanda yashyizeho ingamba zihamye zo guhangana n\u2019ibi byorezo n\u2019indwara byavuzwe haruguru. Ibi bigakorwa hitabwa ku kwirinda indwara, kwivuza hakiri kare no kuboneza imirire kandi buri wese abigizemo uruhare.\r\n\r\nIgitabo MENYA URENGERE UBUZIMA kigamije guha buri muturarwanda ubumenyi bw\u2019ingenzi mu kurinda impfu z\u2019ababyeyi n\u2019abana. Izo mpfu ahanini zikomoka ku ndwara, ibyorezo, impanuka, imirire mibi, ihohoterwa n\u2019ibindi. Ubutumwa burimo buroroshye, burumvikana kandi abantu bose bashobora kubukoresha.\r\nMu bihugu byinshi byakoresheje inyigisho zikubiye muri iki gitabo, byerekana ko ingo n\u2019imiryango byafashe iya mbere mu gushyira mu bikorwa ubutumwa bukubiyemo. Imbaraga zakoreshejwe zafashije ku buryo bugaragara mu guteza imbere inzego z\u2019ubuzima, uburezi no gukumira impfu zihitana ababyeyi n\u2019abana. Ibi birerekana ko natwe mu Rwanda dushobora kugera kuri byinshi, ingo n\u2019imiryango bihawe ubumenyi kandi bigashyira mu bikorwa inyigisho zikubiye muri iki gitabo.\r\n\r\nNi muri urwo rwego dusaba abakora mu nzego z\u2019ubuzima, ibitangazamakuru, abayobozi mu nzego zitandukanye, imiryango itegamiye kuri Leta, iy\u2019abikorera, abarezi, abanyama- dini, inzego z\u2019abagore, iz\u2019urubyiruko n\u2019iz\u2019abafite ubumuga, n\u2019umuryango nyarwanda muri rusange gukoresha MENYA URENGERE UBUZIMA mu kurinda no guteza imbere ubuzima bw\u2019umubyeyi n\u2019umwana.\r\n\r\nUmuryango w\u2019Abibumbye mu Rwanda, mu mikorere yawo yo gutahiriza umugozi umwe, wiyemeje gukomeza gufasha Leta y\u2019u Rwanda kugira ngo igere neza ku musaruro, intego n\u2019intumbero yiyemeje.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "30320d87710b425f8c8f00e6a9383743"
+}
